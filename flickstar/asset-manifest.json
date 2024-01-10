@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/NikhilS/Projects/flickstar/static/css/main.bf1db43a.css",
+    "main.js": "/NikhilS/Projects/flickstar/static/js/main.698f9cad.js",
+    "static/media/prime.png": "/NikhilS/Projects/flickstar/static/media/prime.d37e65ae6c4e70b02058.png",
+    "static/media/nav.png": "/NikhilS/Projects/flickstar/static/media/nav.52fc8f2e45607dfb3290.png",
+    "index.html": "/NikhilS/Projects/flickstar/index.html",
+    "main.bf1db43a.css.map": "/NikhilS/Projects/flickstar/static/css/main.bf1db43a.css.map",
+    "main.698f9cad.js.map": "/NikhilS/Projects/flickstar/static/js/main.698f9cad.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf1db43a.css",
+    "static/js/main.698f9cad.js"
+  ]
+}
